@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 Node.js: The project is set up using Node.js, so you'll need to have Node.js installed to run it locally. You can download it from Node.js official website.
 API Key: You need an API key for OpenWeatherMap to fetch weather data. You can register and get a free API key from OpenWeatherMap.
 
-Installation
+#Installation
 To install Weather App, follow these steps:
 
 Clone the repo
