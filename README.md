@@ -12,13 +12,13 @@ Installation
 To install Weather App, follow these steps:
 
 Clone the repo
-git clone 
+git clone https://github.com/navadeep15/Weather-website.git
 
 Navigate to the project directory:
-cd weather-app
+cd Weather-website
 
 Install the necessary packages:
-npm install
+npm install express body-parser
 
 Usage
 To run the Weather App, execute the following command:
